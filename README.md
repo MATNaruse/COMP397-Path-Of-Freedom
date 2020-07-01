@@ -3,7 +3,7 @@
 ## Team
 Emmanuel Ajayi – 301 050 676
 
-Mohamed Ali – 301 036 444
+Mohammed Ali – 301 036 444
 
 Matthew Naruse – 300 594 638
 
