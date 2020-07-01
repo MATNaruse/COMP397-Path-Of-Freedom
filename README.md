@@ -1,4 +1,4 @@
-# COMP397GameProj
+# COMP397 Final Project "Path of Freedom"
 
 ## Team
 Emmanuel Ajayi – 301 050 676
